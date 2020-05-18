@@ -1,0 +1,5 @@
+transformers
+numpy
+--pre torch torchvision -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
+torch
+streamlit
